@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 40px;
+  background-color: #91e5b6;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  letter-spacing: 4px;
+  word-spacing: 5px;
+}
+
+nav > button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  color: #ffffff;
+}
